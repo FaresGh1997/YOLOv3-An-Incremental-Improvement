@@ -12,3 +12,5 @@ The project can be described in the underlying steps:
 - Evaluate our trained model and the model with predefined weights using mean average precision metric.
 
 
+This project was an exam project done by [Anwar Ibrahim](https://github.com/Anwar9Ibrahim) and Fares Ghazzawi for the MLDM course, HSE, Russian Federation (2022-2023).
+
