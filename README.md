@@ -12,7 +12,7 @@ The project can be described in the underlying steps:
 - Train the model on the [PASCAL-VOC dataset](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit).
 - Evaluate our trained model and the model with predefined weights using mean average precision metric.
 
-skills developed: pandas | pytorch | Neural Networks | Quality metrics | Data Preperation | Model Evaluation | Data modeling | python.
+Skills developed: pandas | pytorch | Neural Networks | Quality metrics | Data Preparation | Model Evaluation | Data modeling | python.
 
 This project was an exam project done by [Anwar Ibrahim](https://github.com/Anwar9Ibrahim) and Fares Ghazzawi for the MLDM course, HSE, Russian Federation (2022-2023).
 
